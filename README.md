@@ -1,4 +1,4 @@
-# -集美大学学生教务管理（选课管理）系统本科课程设计Graduation project of educational administration system of Chengyi College of Jimei University 
+# -集美大学学生教务管理（选课管理）系统本科课程设计Undergraduate course design of student educational administration management (course selection management) system in Chengyi College of Jimei University 
 本项目是使用PHP+MySQL制作的简易学生教务管理（选课）系统
 分为学生、教师、管理员权限
 
