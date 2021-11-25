@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+#center {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 16px;
+    color: #000;
+    border: 1px dotted #CCC;
+    width: 539px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #EBEBEB;
+    font-weight: 900;
+    text-align: center;
+    border-radius: 20px;
+}
+#logo1 {
+	width: 550px;
+	margin: auto;
+	}
