@@ -1,6 +1,7 @@
-# -集美大学诚毅学院学生选课（教务）管理系统毕业设计Graduation project of educational administration system of Chengyi College of Jimei University 
-本项目是使用PHP+MySQL制作的简易学生选课（教务）
+# -集美大学学生教务管理（选课管理）系统毕业设计Graduation project of educational administration system of Chengyi College of Jimei University 
+本项目是使用PHP+MySQL制作的简易学生教务管理（选课）系统
 分为学生、教师、管理员权限
+
 LZX revision in 2021, github.com/VicenLaw/jiaowu source file sources
 
 ![未命名绘图 drawio](https://user-images.githubusercontent.com/52245032/143403376-395531d1-7678-49db-895f-af1d264e5e52.png)
